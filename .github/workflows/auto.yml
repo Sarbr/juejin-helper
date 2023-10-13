@@ -7,6 +7,7 @@ on:
 
 env:
   COOKIE: ${{ secrets.COOKIE }}
+  COOKIE_LOTTERY: ${{ secrets.COOKIE_LOTTERY }}
   COOKIE_2: ${{ secrets.COOKIE_2 }}
   COOKIE_3: ${{ secrets.COOKIE_3 }}
   COOKIE_4: ${{ secrets.COOKIE_4 }}
